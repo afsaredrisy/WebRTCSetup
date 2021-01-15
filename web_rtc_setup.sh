@@ -35,8 +35,8 @@ BUILD="$WEBRTC_ROOT/libjingle_peerconnection_builds"
 WEBRTC_TARGET="AppRTCMobile"
 
 ANDROID_TOOLCHAINS="$WEBRTC_ROOT/src/third_party/android_tools/ndk/toolchains"
-SERVER_API=NDcwNTk2MzQ=
-SERVER_SECRET=NDFkODE5MTZhOTFhMjNjNDI5ZGM0NTJhM2FjOTMwMGYwNmI2NjM5Ng==
+'SERVER_API:NDcwNTk2MzQ='
+'SERVER_SECRET:NDFkODE5MTZhOTFhMjNjNDI5ZGM0NTJhM2FjOTMwMGYwNmI2NjM5Ng=='
 
 exec_ninja() {
   echo "Running ninja"
