@@ -37,8 +37,8 @@ WEBRTC_TARGET="AppRTCMobile"
 ANDROID_TOOLCHAINS="$WEBRTC_ROOT/src/third_party/android_tools/ndk/toolchains"
 
 
-SERVER_API:NDcxNTAzMTQ=
-SERVER_SECRET:NjAyYTBjZmZkYTE3NDkzODc1NmFiNGQ0YmMzMjMyY2VhYmFkNTU0OA==
+SERVER_API:NDcxNTU3MjQ=
+SERVER_SECRET:YmYwODJjMGFkMjE5YTQ4MTljMzczNjk0NjFhY2ZhNWY4MTRjYzBmYg==
 
 exec_ninja() {
   echo "Running ninja"
